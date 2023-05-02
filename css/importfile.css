@@ -63,12 +63,13 @@ input[type=submit]:hover {
 }
 
 .header {
-  padding: 20px;
+  padding: 40px;
   background-image:url("images/banner.jpg");
-  color: rgb(6, 6, 6);
+  color: black;
   font-size: 30px;
-  text-align: right;
-  
+  text-align: center;
+ 
+
 }
 
 footer {
